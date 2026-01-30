@@ -1,1 +1,1 @@
-Pradeep's Matlab files used to teach Advanced Mechanics at Union College
+Pradeep's Matlab files used to teach Dynamics and Kinematics at Union College
